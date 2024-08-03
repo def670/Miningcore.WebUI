@@ -18,7 +18,7 @@ Live info data is retrieved from the miningcore pool API.</br>
 The WebUI website default looks at the domain-name/api.</br>
 If this is not you api location, you need to edit the miningcore.js file.</br>
 
-Chang API location</br>
+Change API location</br>
 - open the WebUI config file in you editor: js/miningcore.js
 - change the following:
 
